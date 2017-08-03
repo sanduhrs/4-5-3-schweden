@@ -1,0 +1,11 @@
+email: stefan.auditor@erdfisch.de
+fullname: 'Stefan Auditor'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$xoO/8r4QqGB9QEj58PCWEurKsX.hyCezQfr33ivcNx0HYvHsK5iBW

@@ -1,0 +1,17 @@
+title: '5-4-3 Schweden!'
+default_lang: de
+author:
+  name: 'Familie Auditor'
+  email: all@auditor.family
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Sieben auf dem Weg nach Norden.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
